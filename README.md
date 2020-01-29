@@ -1,4 +1,4 @@
 # TimeSeries
 Time Series analysis and forecasting in Python
 
-Data source: http://ecg.mit.edu/time-series/
+Source of subject1 and subject2: http://ecg.mit.edu/time-series/
